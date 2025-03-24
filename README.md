@@ -12,6 +12,7 @@ Implementação do tipo abstrado de dado árvore binária em c. A implementaçã
     - insert.c: Contém as funções de inserção na árvore.
     - move.c: Funções para percorrer a árvore binária.
     - search.c: Função de busca por uma sub-árvore.
+    - empty.c: Função para verificar se a árvore está vazia.
     - main.c: Arquivo principal.
 - **📁 include**:
     - node.h: Definição da estrutura nó.
@@ -21,6 +22,7 @@ Implementação do tipo abstrado de dado árvore binária em c. A implementaçã
     - insert.h: Declaração de funções de inserção
     - move.h: Declaração de funções de movimentação.
     - search.h: Declaração da função de busca.
+    - empty.h: Declaração da função para verificar se está vazia.
 - **Makefile**: Arquivo de configuração para a compilação do programa.
 
 ---
