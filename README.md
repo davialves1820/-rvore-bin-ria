@@ -1,4 +1,4 @@
-# Fila Sequencial
+# Árvore Binária
 
 ## 📄 Descrição
 Implementação do tipo abstrado de dado árvore binária em c. A implementação já acompanha um caso de teste no arquivo main, que demonstra o uso da árvore.
